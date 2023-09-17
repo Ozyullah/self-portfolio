@@ -9,6 +9,7 @@ const Home = () => {
                         <h1 class="text-5xl font-bold">Hello there</h1>
                         <p class="py-6">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
                         <h1>This is selfPortfolio</h1>
+                        <h1>Habibullah ozy is coming</h1>
                     </div>
                 </div>
             </div>
